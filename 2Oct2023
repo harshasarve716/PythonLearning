@@ -1,0 +1,5 @@
+print("hello,Welcome to the python world")
+print(23+67)
+print(23%67)
+print(23*45)
+print(45-23)
